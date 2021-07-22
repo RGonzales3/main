@@ -1,0 +1,387 @@
+/* Below is my css style code for my tables page */
+
+body {
+    background-color:#929292;
+}
+
+/* This is my style code for the header */
+#ht1 {
+    color: #FFFFFF;
+    background-color: #375665;
+    text-align: center;
+    text-shadow: 1px 2px #43375a;
+    padding: 40px;
+    box-shadow: 4px 4px #FFFFFF;
+}
+/* Style code for the table */
+table, th, td {
+    border: 2px solid #43375a;
+    font-size: 110%;
+    background-color: #FFFFFF;
+    text-align: center;
+    color: #365E71;
+    width: 100%;
+
+}
+/* Style code for the caption */
+#pt1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 180%;
+    padding: 40px;
+    text-shadow: 2px 2px #43375a;
+}
+/* Style code for the footer and linked webpages */
+#st1 {
+    background-color:#FFFFFF;
+    padding: 30px;
+    text-align: right;
+    box-shadow: 4px 4px #375665;
+    font-size: 130%;
+    margin: 6%;
+    text-align: center;
+    color: #375665;
+}
+
+.linkedwhite {
+    color: #FFFFFF;
+}
+
+#st12 {
+    background-color:#375665;
+    padding: 30px;
+    text-align: right;
+    box-shadow: 4px 4px #FFFFFF;
+    font-size: 130%;
+    margin: 6%;
+    text-align: center;
+}
+
+
+
+/* Below is my css style code for my form page */
+
+/* Style code for my header */
+#headerf1 {
+    background-color: #375665;
+    text-align: center;
+    margin-right: 550px;
+    box-shadow: 2px 3px 2px #FFFFFF;
+}
+/* Another style code for my header */
+#tf1 {
+    margin-left: 550px;
+    background-color: #365E71;
+}
+/* Style code for my name */
+#h1f1 {
+    color: #FFFFFF;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 1px 2px #43375a;
+    padding: 50px;
+
+}
+/* Style code for my form */
+form {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #43375a;
+    font-size: 160%;
+    background-color: #365E71;
+    border: 3px solid #FFFFFF;
+    padding: 50px;
+}
+
+/* Below is my css style code for my homepage */
+
+/* This is my style code for my header */
+#hs1{
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #234465;
+    text-shadow: 1px 1px #87A9CB;
+}
+
+/* Style code for the paragraph */
+.index {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #234465;
+    font-size: 200%;
+    margin: 40px;
+}
+
+/* Below is my css style code for my siteplan page */
+
+/* Style code for my captions above the pictures, to make sure it's centered */
+#parasite {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #234465;
+    font-size: 200%;
+    margin: 40px;
+}
+/* Style code for the pictures and making sure it's centered with the captions */
+img {
+
+    display: block;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+}
+/* Style code for my Project 3 site 1 */
+
+body {
+    background-color:#929292;
+}
+
+#hrtop1 {
+    border-color: white; 
+    border-width: 2px;
+}
+
+#hrtop2 {
+    border-color: #000; 
+    border-width: 4px;
+    background-color: #000;
+}
+
+#hpro3 {
+    color: #fff;
+    background-color: #234465; 
+    text-align: center;
+    padding: 40px;
+    font-size:50px;
+    font-family:'Segoe UI',Tahoma, Verdana, sans-serif;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.captionone {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 200%;
+    padding: 10px;
+    text-shadow: 2px 2px #43375a;
+}
+
+.parapageone{
+    text-align: center;
+    font-size: 150%;
+    padding: 10px;
+}
+
+#sitetopic {
+    text-align: center;
+    font-size: 300%;
+    padding: 50px;
+    text-shadow: 1px 1px #43375a;
+    text-decoration: underline;
+}
+
+.hrone {
+    border-color: white; 
+    width: 80%; 
+    float: center; 
+    border-width: 3px;
+}
+
+#aretha {
+    color: #FFFFFF;
+    font-size: 200%;
+    padding: 10px;
+    text-shadow: 2px 2px #43375a;
+}
+
+#arethapara {
+    font-size: 150%;
+}
+
+#arethafranklin{
+    float: right;
+    margin-top: -24em; 
+    margin-right: 3em;
+    width: 30%;
+    padding-bottom: 60px;
+}
+
+#arethasource {
+    float: right;
+    margin-bottom: -60em; 
+    margin-right: 3em;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px #234465;
+    padding: 10px;
+}
+
+#sectprince {
+    color: #fff;
+    background-color: #234465;
+    font-size: 150%;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 2px 2px #FFFFFF;
+}
+
+#prince {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border: 6px solid #FFFFFF;
+
+}
+
+#princesource {
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px #234465;
+    padding: 10px;
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.footerbox3 {
+    background-color: #234465;
+    text-shadow: #929292;
+    box-shadow:2px 2px #FFFFFF;
+    padding: 20px 20px; 
+    text-align: center;
+}
+
+.footer3 {
+    color: #FFFFFF;
+    font-size: 165%;
+}
+
+
+#arethafranklin, #prince {
+    width: 35%;
+}
+
+iframe {
+    width: 40%;
+}
+
+
+/* Style code for my Project 3 site 2 */
+
+.gentopic {
+    color: #FFFFFF;
+    text-shadow: 2px 2px #1266b9;
+    text-align: center;
+    font-size: 200%;
+}
+
+.gencitation, .genlink {
+    text-align: center;
+    font-size: 120%;
+    color: #FFFFFF;
+}
+
+
+.gensection, .genpicture {
+    background-color: #94a0aa;
+    padding: 4%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Style code for my Project 3 table 1 */
+
+.whiteback {
+    background-color: #d7d8da;
+}
+
+#hrtablehigh{
+    width: 80%;
+}
+
+#tablehead {
+    color: #FFFFFF;
+    background-color:#1e4356;
+    text-shadow:2px 2px#32627b;
+    text-align: center;
+    margin: 40px 30px;
+    padding: 50px;
+    box-shadow: 4px 4px #a2cce3;
+}
+
+.hrtablelow {
+    width: 50%;
+}
+
+#influential {
+    color: #1e4356;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:2px 2px #FFFFFF;
+    font-size: 200%;
+}
+
+.table3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 3%;
+}
+
+.photoleft{
+   border:5px solid #555;
+   width:30%;
+}
+
+.tdf3 {
+    padding: 3%;
+    font-size: 150%;
+}
+
+.th3 {
+    font-size: 125%;
+}
+
+.td3 {
+    font-size: 170%;
+}
+
+/* Style code for my Project 3 table 2 */
+
+#table2head {
+    text-align:center; 
+    border: 2px solid #183047; 
+    font-size: 300%;
+    color: #FFFFFF;
+    text-shadow:3px 2px #375665;
+    padding: 2%;
+    border-width: 5px;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* Style code for my Project 3 form 2 */
+
+#formweb3 {
+    width: 60%;
+    background-color: #b4adad;
+    color: #254757;
+    border-color: #26485a;
+    border-width: 10px;
+    box-shadow: 4px 4px #4e5788;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
