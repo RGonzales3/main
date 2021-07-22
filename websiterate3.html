@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+    <!-- This is Roby Gonzales' Final project made on July 21th 2021 -->
+    <!-- This is my code for my second form -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>
+    Roby Gonzales
+</title>
+<link rel="stylesheet" type="text/css" href="css/stylep2.css">
+
+</head>
+
+
+<body class="whiteback">
+
+    <!-- This is my Logo & Header-->
+    <img src="img/Logo2.png" alt="Logo" width="200" height="200">
+    <h1 id="hs1">Roby Gonzales</h1>  
+    
+    <br>
+    <br>
+
+    <!-- This is my form that emails directly to my email-->
+    <form id="formweb3" action="mailto:W0468725@campus.nscc.ca" method="post" enctype="text/plain">
+
+         <!-- This has a validator-->
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" required="required" pattern=[Aa-Zz]><br><br>
+  
+          <!-- This has a validator-->
+        <label for="lname"> Last name:</label><br>
+        <input type="text" id="lname" name="lname" required="required"  pattern=[Aa-Zz]><br><br>
+  
+        <label for="city">City</label><br>
+        <input type="text" id="city" name="city" size="15"><br><br>
+        
+          <!-- This has a validator-->
+        <label for="age">Age</label><br>
+        <input type="age" id="age" name="age" required="required" size="5" pattern={2}><br><br>
+  
+          <!-- This has a validator-->
+      <label for="phone">Phone Number</label><br>
+      <input type="tel" id="phone" name="phone" size="30" placeholder="123-45-678" 
+      pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br>
+      <small>Format: 123-45-678</small><br><br>
+  
+          <!-- This has a validator-->
+        <label for="email"> E-mail </label><br>
+        <input type="email" id="email" name="email" required="required" size="40"><br><br>
+  
+      <label for="bdaymonth">Birthday (month and year):</label>
+      <input type="month" id="bdaymonth" name="bdaymonth"><br><br>
+  
+      <input type="submit" value="Submit">
+    </form>  
+
+    <br>
+    <br>
+
+    <!-- This is my footer-->
+
+    <section id="st1">
+
+        <a href="./Project3Table2.html"> Back! </a>
+    
+    </section>
+
+</body>
+</html>
